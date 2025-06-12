@@ -58,6 +58,11 @@ This document is updated by many teams in our organization every three-week spri
     - **Benefit:** Streamlines communication.
 - **Active Monitoring of Spec Changes:**
     - **Activity:** Establish a clear method to stay informed (e.g., system notifications, changelog checks, dedicated channels).
+- **Key Contacts for Diagnostic Specification on Other Teams:**
+    - *Purpose: To quickly identify the right person to contact on other teams for spec-related questions or discussions.*
+    - Team [Other Team Name 1] (Focus Area: [e.g., Core Diagnostics, Specific Module]): [Point Person Name/Contact]
+    - Team [Other Team Name 2] (Focus Area: [e.g., Data Interfaces, Reporting]): [Point Person Name/Contact]
+    - *(Note: This list should be kept updated as contacts change.)*
 - **Proactive Clarification & Feedback Loop:**
     - **Activity:** If ambiguities or issues are identified, proactively seek clarification from relevant teams/owners. Provide feedback on how spec changes impact your deliverables.
     - **Benefit:** Improves overall spec quality and prevents rework.
