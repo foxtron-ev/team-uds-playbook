@@ -8,8 +8,13 @@ To improve collaboration and a sense of "team combat" for a 3-person sub-team op
 - **Joint Planning and Breakdown:**
     - After Sprint Planning or when a large user story/task is assigned to the small team, collectively discuss and break it down into smaller, manageable sub-tasks.
     - Assign these sub-tasks within the small team.
+- **Handling Externally Assigned Tickets:**
+    - When a ticket is assigned directly to an individual by a PM, team lead, or client, the assignee should:
+        - Promptly share the ticket with the small team (e.g., in a quick huddle or via the team chat).
+        - Facilitate a brief discussion to ensure shared understanding, identify potential collaboration points, or break it down further if needed.
+        - Ensure the small team's specific Jira label/component is applied for visibility.
 - **Use of Labels/Components:**
-    - Create a unique Jira label (e.g., `team-alpha`, `3-musketeers`) or a specific component for your small team's tasks.
+    - Create a unique Jira label (e.g., `team-uds`) or a specific component for your small team's tasks.
     - This allows for easy filtering and tracking of the small team's overall progress and workload.
 - **Informal Ticket Reviews:**
     - Before creating complex or critical tickets, have a quick sync-up within the small team to ensure clarity, consistency in requirements, and to avoid duplication.
