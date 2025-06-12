@@ -2,7 +2,7 @@
 
 A playbook for 'team-uds' (a small development team) to enhance collaboration, streamline Jira workflows, and foster a strong team identity while operating within a larger Scrum environment.
 
-## Strategies for Enhancing 3-Person Team Collaboration within a Larger Scrum Framework
+## Strategies for Enhancing Small Team Collaboration within a Larger Scrum Framework
 
 To improve collaboration and a sense of "team combat" for our sub-team operating within a larger 20-person Scrum development team, consider the following strategies:
 
