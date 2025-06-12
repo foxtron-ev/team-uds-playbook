@@ -31,6 +31,47 @@ To improve collaboration and a sense of "team combat" for a 3-person sub-team op
     - Acknowledge and celebrate when the small team achieves its specific goals.
 - **Benefit:** Provides a shared sense of purpose and accomplishment, boosting morale and team cohesion.
 
+### 3. Coordinating Diagnostic Specification Updates
+This document is updated by many teams in our organization every three-week sprint and is used by `team-uds` to generate libraries and tests for others.
+
+#### I. Internal `team-uds` Coordination
+- **Pre-Sprint Spec Review & Planning:**
+    - **Activity:** Before or early in sprint planning, dedicate 30-60 minutes for `team-uds` to discuss the Diagnostic Specification.
+    - **Focus:** Identify likely changes, review past changes from other teams, and anticipate impacts on library/test generation.
+    - **Output:** Clear spec-related tasks, dependencies, and clarification needs.
+- **Dedicated Spec Update Tasks:**
+    - **Activity:** Create specific Jira tasks (labeled `team-uds`) for updating sections of the spec.
+    - **Benefit:** Treats spec updates as trackable work, ensuring time allocation and progress visibility.
+- **Internal Review of `team-uds` Contributions:**
+    - **Activity:** Conduct internal peer review within `team-uds` before contributions are merged/published.
+    - **Focus:** Check for clarity, accuracy, completeness, and consistency.
+    - **Benefit:** Improves contribution quality and catches errors early.
+- **Continuous Impact Assessment for Libraries/Tests:**
+    - **Activity:** As spec updates become known, immediately assess the impact on library/test generation.
+    - **Focus:** "How does this change affect what we need to build or test?"
+    - **Benefit:** Allows early adjustments to development plans.
+
+#### II. Coordination with Other Teams & Broader Organization
+- **`team-uds` Spec Point Person (Optional & Rotational):**
+    - **Activity:** Consider a rotating sprint role for a "spec liaison" within `team-uds`.
+    - **Focus:** Proactively check for updates, attend cross-team spec meetings, and channel info back to `team-uds`.
+    - **Benefit:** Streamlines communication.
+- **Active Monitoring of Spec Changes:**
+    - **Activity:** Establish a clear method to stay informed (e.g., system notifications, changelog checks, dedicated channels).
+- **Proactive Clarification & Feedback Loop:**
+    - **Activity:** If ambiguities or issues are identified, proactively seek clarification from relevant teams/owners. Provide feedback on how spec changes impact your deliverables.
+    - **Benefit:** Improves overall spec quality and prevents rework.
+- **Understand the "Why" Behind Changes:**
+    - **Activity:** When other teams make changes, try to understand the underlying reasons.
+    - **Benefit:** Helps anticipate spec direction and make informed design decisions.
+
+#### III. Integrating Spec Updates into Workflow
+- **Early Spec-Driven Development:**
+    - **Activity:** Begin using stable spec sections to drive library/test development as soon as possible.
+    - **Benefit:** Provides early feedback on spec implementability.
+- **Regular Sync on Spec Status:**
+    - **Activity:** Briefly mention critical spec updates/blockers in larger team stand-ups if they impact broader goals. Ensure spec status is a check-in point for internal `team-uds` discussions.
+
 ### General Principles for the Small Team:
 - **Proactive Communication:** Encourage open and frequent updates, even if informal.
 - **Shared Responsibility:** Foster a sense that everyone is responsible for the small team's success.
