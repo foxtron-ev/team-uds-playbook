@@ -1,8 +1,10 @@
-# teamwork
+# team-uds-playbook
+
+A playbook for 'team-uds' (a small development team) to enhance collaboration, streamline Jira workflows, and foster a strong team identity while operating within a larger Scrum environment.
 
 ## Strategies for Enhancing 3-Person Team Collaboration within a Larger Scrum Framework
 
-To improve collaboration and a sense of "team combat" for a 3-person sub-team operating within a larger 20-person Scrum development team, consider the following strategies:
+To improve collaboration and a sense of "team combat" for our sub-team operating within a larger 20-person Scrum development team, consider the following strategies:
 
 ### 1. Collaborative Jira Ticket Management (Jira Ticket 的協同管理)
 - **Joint Planning and Breakdown:**
@@ -25,7 +27,7 @@ To improve collaboration and a sense of "team combat" for a 3-person sub-team op
 
 ### 2. Reinforcing Small Team Goals (強化小組目標感)
 - **Sub-Team Sprint Goals:**
-    - In addition to the overall Sprint Goal of the larger team, define 1-2 specific, achievable goals for the 3-person team within the sprint.
+    - In addition to the overall Sprint Goal of the larger team, define 1-2 specific, achievable goals for our team within the sprint.
     - These goals should contribute to the main Sprint Goal but provide a more focused objective for the small team.
 - **Celebrate Small Wins:**
     - Acknowledge and celebrate when the small team achieves its specific goals.
